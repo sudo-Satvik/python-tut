@@ -6,5 +6,8 @@
 # Syntax: CONSTANT_NAME = value
 
 PI = 3.14
+print(PI)
+PI = 3.147
+print(PI)
 GRAVITY = 9.8
 AGE_OF_UNIVERSE = 13.8e9

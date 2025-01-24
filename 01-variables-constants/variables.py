@@ -7,7 +7,7 @@
 age = 21
 name = "Satvik Sharma"
 height = 6.1
-isMale = True
+is_male = True
 
 
 # Reassigning the values of the variable are also possible!

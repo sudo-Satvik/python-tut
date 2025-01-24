@@ -1,4 +1,4 @@
-# Local Scope
+# Local Scope============================================================
 # The local scope refers to the scope of variables defined within a function. 
 # These variables are accessible only within the function where they are defined.
 
@@ -9,7 +9,7 @@ def greet():
 # name is not accessible here because of local scope
 
 
-# Enclosing or un-Local scoping
+# Enclosing or un-Local scoping============================================================
 # The enclosing scope refers to variables that are in the scope of a function that encloses another function 
 # (e.g., a function inside another function).
 
@@ -22,7 +22,7 @@ def outer():
 
 
 
-# Global Scope
+# Global Scope============================================================
 # The global scope refers to variables that are defined at the top level of a script, outside of any functions or classes.
 # Accessible from anywhere in the script
 
@@ -34,7 +34,7 @@ def my_function():
 my_function()
 
 
-# Built-in Scope
+# Built-in Scope============================================================
 # The built-in scope refers to the names that are available in every Python script, such as print(), len(), and other built-in functions 
 # and exceptions. These names are part of the Python standard library and are accessible throughout your code.
 

@@ -1,4 +1,4 @@
-# This is the good practice how can we define variables and constants in python
+# The good practice how can we define variables and constants in python
 
 # Define constant values at top
 PI = 3.14
